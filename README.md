@@ -1,6 +1,5 @@
 # Credit-card-fraud-detection
 
-import os
 
 # Content for the README.md file
 readme_content = """# Credit Card Fraud Detection using Machine Learning
@@ -17,6 +16,7 @@ Fraud detection is a classic needle-in-a-haystack problem. In this dataset, frau
 
 ## 📊 Dataset
 The project uses the [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) dataset. 
+Dataset is large so not uploaded here
 - **Features:** PCA-transformed features (V1-V28), 'Time', and 'Amount'.
 - **Target:** 'Class' (1 for fraud, 0 for normal).
 
